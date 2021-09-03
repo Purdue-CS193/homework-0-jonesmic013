@@ -1,4 +1,8 @@
-# Michael Jones
+# Michael Jones' First CS193 Homework
+### My favorite things about CS193
+- The instructors are pretty cool
+- The class is much smaller than the lecture (meaning I can get help easier from the instructor(s))
+- I get to learn how to use Github, which I always wanted to do but never knew :(
 
 ## Welcome to GitHub Pages
 
